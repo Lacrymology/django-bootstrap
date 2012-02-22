@@ -6,7 +6,7 @@ Installation
 ------------
 1. Install using pip:
 
-        pip install -e git+git://github.com/earle/django-bootstrap.git#egg=bootstrap
+        pip install -e git+git://github.com/Lacrymology/django-bootstrap.git#egg=bootstrap
 
 2. Add to INSTALLED_APPS:
 	
