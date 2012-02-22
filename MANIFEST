@@ -3,9 +3,7 @@ LICENSE
 README.mkd
 setup.py
 bootstrap/__init__.py
-bootstrap/models.py
-bootstrap/tests.py
 bootstrap/forms.py
-bootstrap/views.py
+bootstrap/widgets.py
 bootstrap/templates/bootstrap/field_default.html
 

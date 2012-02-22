@@ -43,6 +43,15 @@ Example Screenshot
 ![Example Form](http://i.imgur.com/lJEok.png)
 
 
+Versioning
+----------
+The version in this project will follow the version of bootstrap that it
+supports. So, 2.0.x versions will try to keep up to date with bootstrap 2.0.x
+releases, and so on. Bootstrap versioning scheme says it follows the
+*major*.*minor*.*patch* convention, with backwards incompatible changes
+bumping *major*, feature addons bumping *minor* and bugfixes and patches bumping
+*patch*
+
 TODO
 ----
 Add field_* templates, and corresponding Widgets, for the unique Twitter
